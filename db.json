@@ -1,6 +1,7 @@
 {
   "users": [
-    { "id": 1, "name": "Myra"}
+    { "id": 1, "name": "Bill"},
+    { "id": 2, "name": "Carolyn"}
   ],
   "albums": [],
   "photos": []

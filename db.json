@@ -1,7 +1,21 @@
 {
   "users": [
-    { "id": 1, "name": "Bill"},
-    { "id": 2, "name": "Carolyn"}
+    {
+      "name": "Kerry Emard",
+      "id": 3
+    },
+    {
+      "name": "Rachael Crooks",
+      "id": 4
+    },
+    {
+      "name": "Mr. Bessie Kuhn",
+      "id": 5
+    },
+    {
+      "name": "Wilfred Hansen",
+      "id": 6
+    }
   ],
   "albums": [],
   "photos": []
